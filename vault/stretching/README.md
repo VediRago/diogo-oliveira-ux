@@ -12,7 +12,7 @@ The Vault contains the evidence used to demonstrate it.
 
 ## Contents
 
-- [Misdirection Bridges](./misdirection-bridges.md)
+- [Stretching Concept](./stretching-concept.md)
 - [Lucreta](./lucreta.md)
 - [Bedroom Preparation](./bedroom-preparation.md)
 - [Act 01 — Lucreta](./act-01-lucreta.md)
