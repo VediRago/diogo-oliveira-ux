@@ -1,6 +1,6 @@
 # Layering as a Method
 
-*One of the applied methods behind [Consistency](./consistency.md) — the goal this exists to serve.*
+*One of the applied methods behind [the repository's principles](../PRINCIPLES.md).*
 
 ## The Method
 
@@ -42,10 +42,14 @@ Designed as one interlocking system, not built in sequence — but at runtime it
 
 ## Case: Portfolio Architecture
 
-The portfolio repositories apply the same optional-depth pattern to their own structure — a README stands completely on its own, and a Vault holds what's underneath it. This is one instance of the broader consistency principle this method serves; see [Consistency](./consistency.md) for the full picture.
+The portfolio repositories apply the same optional-depth pattern to their own structure — a README stands completely on its own, and a Vault holds what's underneath it. This is one instance of the broader design philosophy this method serves; see [Principles](../PRINCIPLES.md) for the full picture.
 
 ---
 
 ## Why This Matters
 
 Five different problems — a story, a documentation system, a piece of production tooling, an interactive simulation, and a portfolio's own architecture — get solved with the same underlying method, because the goal in each case is identical: whoever depends on a given layer should never have to encounter it breaking its own rules. The mechanic changes with the problem. The consistency doesn't.
+
+---
+
+↩ [Return to README](../README.md)
