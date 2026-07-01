@@ -3,30 +3,30 @@
 
 Part of a larger body of work. **[Start here →](https://github.com/VediRago/diogo-oliveira)**
 
-This repo documents systems and UX thinking on its own terms — information architecture, content systems, and progressive disclosure design — independent of the fiction that produced it.
+This repository documents information architecture, content systems, and progressive disclosure patterns found while building narrative work.
 
-**[Narrative Design Portfolio →](https://github.com/VediRago/diogo-oliveira-portfolio)** — the methodology and case studies this thinking was extracted from.
+**[Narrative Design Portfolio →](https://github.com/VediRago/diogo-oliveira-portfolio)** — the work these methods came from.
 
-**[Principles →](./PRINCIPLES.md)** — how this repository itself is designed, before diving into what it documents.
+**[Principles →](./PRINCIPLES.md)** — how this repository is organized.
 
 ---
 
 ## What's Here
 
 ### 1. [Layering as a Method](./case-studies/the-layering-principle.md)
-One method used repeatedly to organize and deploy information — flexing between strict build-order and simultaneous-optional depth depending on what the problem needs, shown across four different cases.
+Some information has to exist before other information can be written. Sometimes every layer already exists, and the question is how much the reader chooses to open.
 
 ### 2. [Blueprint Systems](./case-studies/blueprint-systems.md)
-Different artifacts need different information to reach the same goal — a blueprint per artifact type, all answering the same question: what must exist before this is complete.
+Different artifacts need different information. Each artifact type gets its own blueprint.
 
 ### 3. [Stretching](./case-studies/stretching.md)
-A model for updating someone's understanding without invalidating what they already believed. The distinction: *"You were wrong"* vs. *"You were right, but the world is larger than that."*
+Later information expands the earlier explanation instead of replacing it.
 
 ### 4. [Form as Signal](./case-studies/form-as-signal.md)
-The medium's own texture used as a communication channel — prose density thinning to mirror a character's loss of perception, with nothing ever named directly. Not sequencing what a reader sees, but treating *how* something is presented as content in its own right.
+The format carries information. Prose density changes as the character's perception changes.
 
 ### [Process Log](./process-log/)
-Day-by-day development entries — the reasoning behind structural decisions, timestamped as they happened.
+Development notes, recorded as the structure changed.
 
 ---
 
