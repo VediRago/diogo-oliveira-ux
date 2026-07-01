@@ -4,21 +4,35 @@
 
 ## The Method
 
-Most systems handle new information by replacing what came before it: "you were wrong, here's the correction." Stretching does something different — it expands what someone already believed without discarding it. The earlier understanding stays true. It just turns out to be smaller than the whole picture.
+Some systems replace an earlier explanation with a new one.
 
-The distinction: *"You were wrong"* vs. *"You were right, but the world is larger than that."*
+Stretching does something else.
+
+Later information expands the earlier explanation instead of discarding it.
+
+The first explanation stays useful. It was incomplete, not wrong.
 
 ---
 
 ## Case: Narrative (Fragments)
 
-Lucreta shows symptoms early in the story. Later, a virus appears in a different fragment's world with overlapping symptoms — the reader forms a biological explanation, and that explanation genuinely works, locally. It isn't a false clue. The virus is a real catastrophe in its own right. It just isn't the deepest layer underneath the pattern. Later evidence doesn't cancel the virus explanation — it stretches around it.
+Lucreta shows symptoms early.
+
+Later, another fragment introduces a virus with overlapping symptoms. The reader can build a biological explanation from real evidence.
+
+That explanation works locally. The virus is real. The symptoms match. Later evidence does not cancel that explanation. It makes it smaller than the full pattern.
 
 → See: [Stretching Concept](../vault/stretching/stretching-concept.md)
 
 ## Case: Production (Blueprint Depth)
 
-A reader who only reads the finished screenplay gets a complete, valid scene — nothing about it is wrong. Going one layer deeper into the local scene blueprint doesn't correct that reading, it expands it: the same beats, now staged. Going deeper still into the global act summary expands it again: the same scene, now placed inside the motifs and rules governing the whole act. Each layer is true. Each is just smaller than the one beneath it.
+The screenplay works on its own.
+
+The scene blueprint expands it by showing how the scene is staged.
+
+The act blueprint expands it again by showing the rules and motifs around the scene.
+
+Each layer is valid. Each layer is smaller than the one beneath it.
 
 → Screenplay: [Lucreta](../vault/stretching/lucreta.md)
 → Local: [Bedroom Preparation](../vault/stretching/bedroom-preparation.md)
@@ -26,15 +40,13 @@ A reader who only reads the finished screenplay gets a complete, valid scene —
 
 ## Case: Meta (This Repository)
 
-Earlier tonight, Layering's own opening line pointed to a document called Consistency, describing it as the goal Layering served. That was true. It just turned out to be incomplete — Consistency was one part of a larger design philosophy that hadn't been written down yet. Once it was, Consistency didn't get proven wrong. It got absorbed into something bigger, and every reference pointing to it was updated to point at the fuller picture instead.
+Layering first pointed to a document called Consistency.
+
+That was accurate, but incomplete.
+
+Consistency became part of a larger repository structure. The old reference was not contradicted. It was replaced by a fuller document.
 
 → See: [Principles](../PRINCIPLES.md)
-
----
-
-## Why This Matters
-
-Replacing an earlier belief costs trust — it tells someone their first read was a mistake. Stretching costs nothing, because it never was one. The same discipline shows up whether the subject is a fictional virus, a production document, or this repository's own governing rules: expand what's already true instead of discarding it.
 
 ---
 
