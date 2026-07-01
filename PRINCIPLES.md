@@ -1,5 +1,7 @@
 # Navigation & Documentation Principles
 
+↩ [Return to README](./README.md)
+
 The reason this repository is organized the way it is — the design philosophy governing every README, case study, Vault, and blueprint within it.
 
 ## Goal
