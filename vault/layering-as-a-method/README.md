@@ -4,11 +4,7 @@
 
 # Layering as a Method — Vault
 
-This Vault contains the supporting artifacts referenced by the **Layering as a Method** case study.
-
-The case study explains the method.
-
-The Vault contains the evidence used to demonstrate it.
+Evidence referenced by the **Layering as a Method** case study.
 
 ## Contents
 
