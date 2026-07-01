@@ -1,17 +1,18 @@
 # Diogo Oliveira
 ### Systems & UX Thinking, Discovered Through Narrative Design
 
-Part of a larger body of work. **[Start here →](https://github.com/VediRago/diogo-oliveira)**
+Part of a larger body of work — see the [full overview →](https://github.com/VediRago/diogo-oliveira) if useful, or continue below.
 
 This repo documents systems and UX thinking on its own terms — information architecture, content systems, and progressive disclosure design — independent of the fiction that produced it.
 
 **[Narrative Design Portfolio →](https://github.com/VediRago/diogo-oliveira-portfolio)** — the methodology and case studies this thinking was extracted from.
 
-**[Principles →](./PRINCIPLES.md)** — how this repository itself is designed, before diving into what it documents.
-
 ---
 
 ## What's Here
+
+### [Principles](./PRINCIPLES.md)
+The first step inside this repository's UX thinking — the source both [Layering as a Method](./case-studies/the-layering-principle.md) and [Blueprint Systems](./case-studies/blueprint-systems.md) apply directly.
 
 ### 1. [Layering as a Method](./case-studies/the-layering-principle.md)
 One method used repeatedly to organize and deploy information — flexing between strict build-order and simultaneous-optional depth depending on what the problem needs, shown across four different cases.
