@@ -2,56 +2,66 @@
 
 ## The Problem
 
-Writing *Noeme* meant tracking dozens of scenes across multiple characters, timelines, and emotional arcs — with no formal training in screenwriting or production documentation. Two failure modes kept showing up early on:
+Writing *Noeme* meant tracking dozens of scenes across multiple characters, timelines, and emotional arcs. Two failure modes kept appearing early.
 
-1. **Drift** — a visual motif or character rule would mean one thing in an early scene and something slightly different by the time it resurfaced, because nothing centrally owned its definition.
-2. **Disposable content** — early scenes felt like setup for later payoff rather than complete experiences in their own right.
+First, recurring rules could drift. A visual motif, character behavior, or structural rule could mean one thing in an early scene and something slightly different later if nothing owned its definition.
 
-The Scene Blueprint Template was built to solve both, without anyone teaching the underlying principles. It was discovered, not studied.
+Second, early scenes could become disposable. They risked feeling like setup for later payoff instead of complete experiences that rewarded the reader immediately.
 
-## The System
+The Scene Blueprint System was built to solve both problems by separating repeated structure from local execution.
 
-Two tiers, with a strict division of responsibility:
+## The Solution
 
-- **Act/Part summaries** hold anything that repeats: world rules, recurring motifs, character dynamics that apply across many scenes, and a scene map for navigation.
-- **Scene blueprints** hold only what's specific to that scene: a numbered Action Flow (the clean physical sequence), Dialogue/Cue Attachments (interpretation, performance notes, line placement), Key Images, and a Scene Summary placed *last* — generated from the structure rather than written first and reverse-justified.
+The system uses three connected levels.
 
-A few specific decisions worth noting on their own:
+The global blueprint owns recurring meaning: act purpose, motifs, world language, character functions, bridge notes, and the scene map.
 
-- **File naming uses gaps of 10** (`10_`, `20_`, `30_`) specifically so scenes can be inserted later without renaming the whole sequence — the same logic behind ID spacing in any system expected to grow.
-- **Silent beats only get a `Cue:` field, never `Dialogue: None`.** The absence of dialogue is structurally distinct from the absence of information.
-- **Global rules are explicitly forbidden from being repeated in scene files** unless a scene uses them in a specific, different way. This is DRY (don't-repeat-yourself) applied to creative documentation.
+The local blueprint owns scene execution: action flow, cue attachments, visual order, pacing, scene function, and what this specific scene must accomplish.
 
-## Proof: Spec → Output
+The screenplay owns final delivery. It does not re-explain the blueprint. It executes the structure in the format the reader experiences.
 
-Below is a global rule from the **Act 01 — Lucreta** summary, the matching instruction from the **Bedroom Preparation** scene blueprint, and the line it produced in finished prose.
+This creates a clear chain:
 
-**Global motif rule (Act summary):**
-> "The sky is the last part of the outside that remains after the street slips from view... it should feel like freedom, distance, and unreachable life."
+```text
+Global Blueprint
+↓
+Local Blueprint
+↓
+Screenplay
+```
 
-**Scene blueprint (local execution):**
-> "F07 — The street slips from view first. Lucreta's eyes lift above the rooftops. The bright blue sky remains as the last piece of outside she can still see."
+Each level has one responsibility. No level repeats what another level already owns.
 
-**Finished prose:**
-> "Lucreta keeps looking as Vera gently pulls her away from the window. The street slips from view. Her eyes lift. Above the rooftops, a bright blue sky."
+## Design Decisions
 
-The motif's *meaning* lives once, at the global level. The scene blueprint stages it. The prose executes it — without redefining what the sky represents, because it never needed to.
+File names use gaps of ten, such as `10_`, `20_`, and `30_`, so scenes can be inserted later without renaming the whole sequence.
 
-The same traceability holds for dialogue. The blueprint specifies:
+Silent beats are treated as information, not absence. A silent beat receives a cue instead of being marked as empty, because silence can carry performance, timing, and emotional function.
 
-> Vera: "Do not tell me you have grown fearful of womanhood at the final hour, dear. You linger so long one might think this marriage burdens you terribly."
-> Cue: "Vera is trying to break the silence... trying to pull Lucreta back into the room and out of the fixed gaze."
+Global rules are not repeated inside scene files unless the scene uses them in a specific way. This keeps the system traceable and prevents the same idea from being rewritten in multiple places.
 
-And the finished screenplay carries the line nearly verbatim, with the physical performance (a hand moving through hair, a practiced smile) built around the cue exactly as specified.
+## Evidence
 
-## A Second Lesson: Format-Appropriate Compression
+The system can be checked through the artifacts themselves.
 
-Not every blueprint instruction survives into prose, and that's intentional rather than a failure of the system. The **Wedding Collapse** blueprint stages the fall in eight separate beats — a stumble, a hand reaching the door handle, fingers slipping, a knee striking the floor — because a director or animator needs that granularity to execute the scene physically.
+### Global Blueprint
 
-The finished screenplay compresses all of it into a few lines, because a reader doesn't need timing notation — they need the fall to *feel* sudden. The blueprint and the screenplay are two different outputs generated from the same underlying scene, each retaining only what its audience needs and discarding the rest.
+[Act 01 — Lucreta](https://github.com/VediRago/Noeme/blob/main/Blueprints/Act1%20Lucreta/Act1_Lucreta.md)
 
-That's the same principle behind a single content model feeding multiple format-specific views — a CMS serving both a print layout and a responsive web layout from one source, exposing different fields to each. The data doesn't change. What's surfaced does, deliberately, per output target.
+### Local Blueprint
+
+[Bedroom Preparation](https://github.com/VediRago/Noeme/blob/main/Blueprints/Act1%20Lucreta/10_Bedroom_Preparation.md)
+
+### Screenplay
+
+[Lucreta Prologue](https://github.com/VediRago/Noeme/blob/main/Screenplay/01_Lucreta.md)
+
+The case study explains the relationship between the artifacts. The artifacts provide the proof.
 
 ## Why This Matters
 
-Most people who can produce *good output* can't show *the system that reliably produces it*. This blueprint format does both: it's a real documentation discipline (schema design, single-source-of-truth, scalability planning) that was independently necessary to solve a writing problem, and it demonstrably produces traceable, consistent output when followed — while knowing when to deliberately diverge for a different deliverable.
+The system shows how consistency can be produced without repeating information.
+
+A recurring rule is defined once, staged locally once, and executed once in the final format. If a reader wants to verify the chain, they follow the links instead of reading duplicated excerpts.
+
+This respects the reader's time and keeps each document responsible for its own information.
