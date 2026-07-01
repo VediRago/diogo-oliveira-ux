@@ -28,11 +28,11 @@ The same sequence-dependent logic at the production level: a global rule set has
 → Local: [Bedroom Preparation](../vault/layering-as-a-method/bedroom-preparation.md)
 → Screenplay: [Lucreta](../vault/layering-as-a-method/lucreta.md)
 
-## Case: Story Structure (Fragments)
+## Case: Story Structure (Noeme)
 
 Where the two mechanics meet. In development, character came first; deeper structure was built afterward, specifically to explain why the character moments belonged together. In the finished story, all layers exist at once — a reader who only experiences the surface gets a complete story, and the deepest layer is never explained directly, only felt as coherence.
 
-→ See: [Layered Narrative System](https://github.com/VediRago/diogo-oliveira-portfolio/blob/main/case-studies/fragments-layered-narrative.md)
+→ See: [Layered Narrative System](../vault/layering-as-a-method/layered-narrative-system.md)
 
 ## Case: Simulation (Twine Prototype)
 
