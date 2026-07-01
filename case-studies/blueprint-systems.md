@@ -1,6 +1,6 @@
 # Blueprint Systems
 
-*One of the applied methods behind [Consistency](./consistency.md) — the goal this exists to serve.*
+*One of the applied methods behind [the repository's principles](../PRINCIPLES.md).*
 
 ## The Method
 
@@ -32,16 +32,22 @@ Evidence supporting a case study needs consistent navigation and clear ownership
 
 Global narrative rules — motifs, world language, recurring behavior — need to exist once, at a level every scene beneath them can reference without repeating.
 
-→ See: [Act 01 — Lucreta](../vault/layering-as-a-method/act-01-lucreta.md)
+→ Definition: [Act Blueprint](./act-blueprint.md)
+→ Example: [Act 01 — Lucreta](../vault/layering-as-a-method/act-01-lucreta.md)
 
 ## Case: Scene Blueprint
 
 Local scene execution needs only what's specific to that scene, built on top of the global rules already established.
 
-→ See: [Scene Blueprint Template](../vault/layering-as-a-method/scene-blueprint-template.md)
+→ Definition: [Scene Blueprint](./scene-blueprint.md)
+→ Example: [Scene Blueprint Template](../vault/layering-as-a-method/scene-blueprint-template.md)
 
 ---
 
 ## Why This Matters
 
 Consistency doesn't come from repeating the same template. It comes from giving every artifact a schema appropriate to its purpose, while preserving predictable navigation and ownership.
+
+---
+
+↩ [Return to README](../README.md)
