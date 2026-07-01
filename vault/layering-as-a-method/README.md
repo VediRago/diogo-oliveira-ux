@@ -17,3 +17,4 @@ The Vault contains the evidence used to demonstrate it.
 - [Act 01 — Lucreta](./act-01-lucreta.md)
 - [Bedroom Preparation](./bedroom-preparation.md)
 - [Lucreta](./lucreta.md)
+- [Layered Narrative System](./layered-narrative-system.md)
