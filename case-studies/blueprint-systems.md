@@ -4,49 +4,61 @@
 
 ## The Method
 
-Different artifacts across this ecosystem — repositories, documentation, scenes, vaults, acts — all needed consistency, but each needed different information to reach it. Forcing one template onto all of them would have meant either leaving out what a given artifact actually needed, or padding it with sections that didn't apply.
+Different artifacts need different information.
 
-Instead, each artifact type gets its own blueprint. Every blueprint answers the same question — *what information must exist before this artifact is complete?* — but the answer's shape changes depending on what's being built.
+A README does not need the same structure as a Vault. A scene blueprint does not need the same structure as an act blueprint.
+
+Each artifact type gets its own blueprint.
+
+The question stays the same:
+
+> What information must exist before this artifact is complete?
+
+Only the answer changes.
 
 ---
 
 ## Case: README Blueprint
 
-A repository's entry point has to orient a reader before anything else — what this is, why it exists, where to go next — without repeating content that belongs deeper in.
+A README introduces the repository.
+
+It explains what the repository contains and where the reader can go next.
 
 → See: [README Blueprint](./readme-blueprint.md)
 
 ## Case: Case Study Blueprint
 
-A method needs to be explained once, then proven through links to real evidence rather than reproduced content.
+A case study explains one method.
+
+It links to evidence instead of reproducing it.
 
 → See: [Case Study Blueprint](./case-study-blueprint.md)
 
 ## Case: Vault Blueprint
 
-Evidence supporting a case study needs consistent navigation and clear ownership, so a reader who's learned one Vault doesn't have to relearn another.
+A Vault contains evidence for one case study.
+
+Every artifact inside it returns to that case study.
 
 → See: [Vault Blueprint](./vault-blueprint.md)
 
 ## Case: Act Blueprint
 
-Global narrative rules — motifs, world language, recurring behavior — need to exist once, at a level every scene beneath them can reference without repeating.
+An act blueprint defines global narrative rules.
+
+Scene blueprints reference those rules instead of repeating them.
 
 → Definition: [Act Blueprint](./act-blueprint.md)
 → Example: [Act 01 — Lucreta](../vault/layering-as-a-method/act-01-lucreta.md)
 
 ## Case: Scene Blueprint
 
-Local scene execution needs only what's specific to that scene, built on top of the global rules already established.
+A scene blueprint contains only the information needed for one scene.
+
+It depends on the act blueprint above it.
 
 → Definition: [Scene Blueprint](./scene-blueprint.md)
 → Example: [Scene Blueprint Template](../vault/layering-as-a-method/scene-blueprint-template.md)
-
----
-
-## Why This Matters
-
-Consistency doesn't come from repeating the same template. It comes from giving every artifact a schema appropriate to its purpose, while preserving predictable navigation and ownership.
 
 ---
 
