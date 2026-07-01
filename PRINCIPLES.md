@@ -1,38 +1,26 @@
 # Navigation & Documentation Principles
 
-Not a case study — the design philosophy governing how every repository, README, case study, Vault, and blueprint in this ecosystem is organized.
+The reason this repository is organized the way it is — the design philosophy governing every README, case study, Vault, and blueprint within it.
 
 ## Goal
 
 Consistency. A reader should always know where they are, why they're there, and where they can go next — without relearning it each time. The portfolio should disappear behind the work.
 
-## Single Source of Truth
-
-Each artifact owns one job:
-
-- README — orients.
-- Case study — explains a method.
-- Vault — holds evidence.
-- Blueprint — defines required structure.
-- Process log — documents development.
-
-The same explanation never lives in two places. Other documents link back to the original instead of repeating it.
-
 ## Duplicate Navigation, Not Information
 
-Links can repeat. Content can't. If several documents reference the same concept, each one links to it rather than re-explaining it. Repeated links cost nothing. Repeated explanations create conflicting sources of truth.
+Links can repeat, and repeating them keeps navigation smooth. When more than one case study needs the same evidence, it gets copied rather than shared — so the return link always leads back to wherever the reader actually came from.
 
 ## Evidence Over Explanation
 
-A case study explains a method briefly, then links to real artifacts proving it. The proof lives in the Vault. The explanation lives in the case study. The portfolio demonstrates work instead of describing it twice.
+A case study explains a method briefly, then links to real artifacts proving it. The proof lives in the Vault, present but never forced — a reader can follow it or skip it, and either way the case study still holds on its own.
 
 ## Layered Reading
 
-Every document stands complete on its own for the audience reading it, with a clear path toward more depth. Depth is optional. Confusion is not.
+Every document stands complete on its own for the audience reading it, with a clear path toward more depth. That only holds because every link gets checked against a real destination before it ships — a broken or empty link is what actually causes confusion, and the fix is verification, not good intentions.
 
 ## Blueprint Philosophy
 
-Different artifacts need different information. Rather than one template for everything, each artifact type gets its own blueprint, all answering the same question: *what must exist before this is complete?* The required information changes. The purpose doesn't.
+Different artifacts need different information. Rather than one template for everything, each artifact type gets its own blueprint, all answering the same question: *what must exist before this artifact is complete?* The required information changes. The purpose doesn't.
 
 ## Vault Philosophy
 
