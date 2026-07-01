@@ -30,4 +30,4 @@ Every case study owns its own evidence. Each Vault belongs to one case study, an
 
 ---
 
-Readers are here to understand ideas, not the portfolio. If the navigation becomes invisible, the documentation is doing its job. Consistency isn't achieved by making everything identical — it's achieved by making every artifact behave exactly as its purpose requires, while the same navigation philosophy holds throughout.
+→ [Layering as a Method](./case-studies/the-layering-principle.md)
