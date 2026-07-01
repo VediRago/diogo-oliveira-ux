@@ -14,7 +14,7 @@ The distinction: *"You were wrong"* vs. *"You were right, but the world is large
 
 Lucreta shows symptoms early in the story. Later, a virus appears in a different fragment's world with overlapping symptoms — the reader forms a biological explanation, and that explanation genuinely works, locally. It isn't a false clue. The virus is a real catastrophe in its own right. It just isn't the deepest layer underneath the pattern. Later evidence doesn't cancel the virus explanation — it stretches around it.
 
-→ See: [Misdirection Bridges](../vault/stretching/misdirection-bridges.md)
+→ See: [Stretching Concept](../vault/stretching/stretching-concept.md)
 
 ## Case: Production (Blueprint Depth)
 
