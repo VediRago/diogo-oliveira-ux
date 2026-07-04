@@ -1,3 +1,5 @@
+↩ [Return to Blueprint Systems](./blueprint-systems.md)
+
 # Case Study Blueprint
 
 ## Purpose
