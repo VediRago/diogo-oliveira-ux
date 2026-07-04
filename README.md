@@ -5,7 +5,7 @@ This repo documents systems and UX thinking — information architecture, conten
 
 Part of a larger body of work — see [Home →](https://github.com/VediRago/diogo-oliveira) if useful, or continue below.
 
-**[Narrative Design Portfolio →](https://github.com/VediRago/diogo-oliveira-portfolio)** — the methodology and case studies this thinking was extracted from.
+**[Narrative Design Portfolio →](https://github.com/VediRago/diogo-oliveira-narrative-design)** — the methodology and case studies this thinking was extracted from.
 
 ---
 
@@ -23,11 +23,11 @@ Different artifacts need different information to reach the same goal — a blue
 ### 3. [Stretching](./case-studies/stretching.md)
 A model for updating someone's understanding without invalidating what they already believed. The distinction: *"You were wrong"* vs. *"You were right, but the world is larger than that."*
 
-### 4. [Form as Signal](./case-studies/form-as-signal.md)
-The medium's own texture used as a communication channel — prose density thinning to mirror a character's loss of perception, with nothing ever named directly. Not sequencing what a reader sees, but treating *how* something is presented as content in its own right.
+### 4. Whole Portfolio Structure
+Planned case study. The portfolio's own layer system as an information architecture problem: separating identity, method, product, and singular projects so each part answers one question without collapsing into the others.
 
-### [Process Log](./process-log/)
-Day-by-day development entries — the reasoning behind structural decisions, timestamped as they happened.
+### 5. CEM
+Planned case study. The structural and methodology decisions behind the Capability Evidence Model — not the framework's content, but the information architecture that makes the framework navigable.
 
 ---
 
@@ -36,9 +36,8 @@ Day-by-day development entries — the reasoning behind structural decisions, ti
 - [x] Layering as a Method
 - [x] Blueprint Systems
 - [x] Stretching
-- [x] Form as Signal
-- [ ] People Before System
-- [ ] Treasure → Key → Treasure
+- [ ] Whole Portfolio Structure
+- [ ] CEM
 
 ## Contact
 
