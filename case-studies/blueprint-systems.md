@@ -24,7 +24,7 @@ A README introduces the repository.
 
 It explains what the repository contains and where the reader can go next.
 
-→ See: [README Blueprint](./readme-blueprint.md)
+→ See: [README Blueprint](../vault/blueprint-system/readme-blueprint.md)
 
 ## Case: Case Study Blueprint
 
@@ -32,7 +32,7 @@ A case study explains one method.
 
 It links to evidence instead of reproducing it.
 
-→ See: [Case Study Blueprint](./case-study-blueprint.md)
+→ See: [Case Study Blueprint](../vault/blueprint-system/case-study-blueprint.md)
 
 ## Case: Vault Blueprint
 
@@ -40,7 +40,7 @@ A Vault contains evidence for one case study.
 
 Every artifact inside it returns to that case study.
 
-→ See: [Vault Blueprint](./vault-blueprint.md)
+→ See: [Vault Blueprint](../vault/blueprint-system/vault-blueprint.md)
 
 ## Case: Act Blueprint
 
@@ -48,7 +48,7 @@ An act blueprint defines global narrative rules.
 
 Scene blueprints reference those rules instead of repeating them.
 
-→ See: [Act Blueprint](./act-blueprint.md)
+→ See: [Act Blueprint](../vault/blueprint-system/act-blueprint.md)
 
 ## Case: Scene Blueprint
 
@@ -56,7 +56,7 @@ A scene blueprint contains only the information needed for one scene.
 
 It depends on the act blueprint above it.
 
-→ See: [Scene Blueprint](./scene-blueprint.md)
+→ See: [Scene Blueprint](../vault/blueprint-system/scene-blueprint.md)
 
 ---
 
