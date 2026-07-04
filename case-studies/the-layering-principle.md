@@ -48,9 +48,9 @@ In the finished story, the layers exist at the same time. The surface story stil
 
 ## Case: Simulation (Twine Prototype)
 
-The prototype was built as one system.
+The simulation exists as one whole system.
 
-At runtime, it shows only prose and consequence first. The mechanical layer sits one click deeper and stays optional.
+Layering controls disclosure, not construction. The reader sees prose and consequence first. The mechanical layer sits one click deeper and stays optional.
 
 → See: [Designing the Invisible System](./invisible-system.md)
 
