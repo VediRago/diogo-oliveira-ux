@@ -2,6 +2,8 @@
 
 *One of the applied methods behind [the repository's principles](../PRINCIPLES.md).*
 
+↩ [Return to Layering as a Method](./the-layering-principle.md)
+
 ## Principle
 
 One question per layer. No overlap.
