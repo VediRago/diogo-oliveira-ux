@@ -30,4 +30,4 @@ Every case study owns its own evidence. Each Vault belongs to one case study, an
 
 ---
 
-→ [Layering as a Method](./case-studies/the-layering-principle.md)
+→ [Blueprint Systems](./case-studies/blueprint-systems.md)
