@@ -1,4 +1,4 @@
-↩ [Return to Blueprint Systems](./blueprint-systems.md)
+↩ [Return to Blueprint Systems](../../case-studies/blueprint-systems.md)
 
 # README Blueprint
 
