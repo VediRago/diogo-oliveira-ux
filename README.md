@@ -26,8 +26,8 @@ A model for updating someone's understanding without invalidating what they alre
 ### 4. [Whole Portfolio Structure](./case-studies/whole-portfolio-structure.md)
 The portfolio's own layer system as an information architecture problem: separating identity, method, product, and singular projects so each part answers one question without collapsing into the others.
 
-### 5. CEM
-Planned case study. The structural and methodology decisions behind the Capability Evidence Model — not the framework's content, but the information architecture that makes the framework navigable.
+### 5. [CEM](./case-studies/cem.md)
+Capability should be evidenced, not summarized. CEM separates evidence discovery from independent evaluation so proof does not bend toward the conclusion it wants to support.
 
 ---
 
@@ -37,7 +37,7 @@ Planned case study. The structural and methodology decisions behind the Capabili
 - [x] Layering as a Method
 - [x] Stretching
 - [x] Whole Portfolio Structure
-- [ ] CEM
+- [x] CEM
 
 ## Contact
 

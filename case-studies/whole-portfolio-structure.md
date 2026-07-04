@@ -2,6 +2,7 @@
 
 *One of the applied methods behind [the repository's principles](../PRINCIPLES.md).*
 
+
 ## Principle
 
 One question per layer. No overlap.
@@ -47,4 +48,4 @@ The result isn't a separate case study. The portfolio itself is the case study. 
 
 ---
 
-← Previous: [Stretching](./stretching.md) · [README](../README.md) · Next: CEM →
+← Previous: [Stretching](./stretching.md) · [README](../README.md) · Next: [CEM](./cem.md) →
