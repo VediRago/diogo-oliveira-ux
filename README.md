@@ -1,7 +1,9 @@
 # Diogo Oliveira
-### Systems & UX Thinking, Discovered Through Narrative Design
+### Making Complex Systems Approachable
 
-This repo documents systems and UX thinking — information architecture, content systems, and progressive disclosure design — independent of the fiction that produced it.
+This repo documents UX methods for making complex systems easier to enter, read, and evaluate.
+
+The methods came from narrative design work, but they are separated here from the fiction that produced them.
 
 Part of a larger body of work — see [Home →](https://github.com/VediRago/diogo-oliveira) if useful, or continue below.
 
