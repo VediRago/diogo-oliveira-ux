@@ -50,4 +50,4 @@ Consistency became part of a larger repository structure. The old reference was 
 
 ---
 
-↩ [Return to README](../README.md)
+← Previous: [Layering as a Method](./the-layering-principle.md) · [README](../README.md) · Next: [Whole Portfolio Structure](./whole-portfolio-structure.md) →
