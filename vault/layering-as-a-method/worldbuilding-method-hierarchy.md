@@ -26,9 +26,6 @@ Complexity is never added because it would be interesting. It's added only once 
 
 Not every element needs to reach every tier. A background character may only need tier one. A civilization-defining system usually needs history. A playable quest needs the full chain to reach quest logic naturally, or it reads as an errand pasted onto lore rather than an expression of what already exists.
 
-## Worked Example — Chip Removal Quest
-
-The quest wasn't invented first and justified backward. It exists because four prior layers already demanded it: a founding theft, an obedience-based institution, medicine turned into bodily governance, and chips normalized as identity. The quest is history becoming playable pressure — not a separate formula.
 
 ## Design Goal
 
