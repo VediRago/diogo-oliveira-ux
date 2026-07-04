@@ -41,9 +41,9 @@ The result isn't a separate case study. The portfolio itself is the case study. 
 
 ## Evidence
 
-- **Layer System Blueprint** — the rules governing why each layer exists and what separates them.
-- **Portfolio Layer Inventory** — the current state of every repository against those rules.
-- **Ecosystem Map** — the portfolio's structure, shown rather than described.
+- **[Layer System Blueprint](../vault/whole-portfolio-structure/layer-system-blueprint.md)** — the rules governing why each layer exists and what separates them.
+- **[Portfolio Layer Inventory](../vault/whole-portfolio-structure/portfolio-layer-inventory.md)** — the current state of every repository against those rules.
+- **[Ecosystem Map](../vault/whole-portfolio-structure/ecosystem-map.md)** — the portfolio's structure, shown rather than described.
 
 ---
 
