@@ -1,3 +1,5 @@
+↩ [Return to Blueprint Systems](./blueprint-systems.md)
+
 # Act Blueprint
 
 ## Purpose
