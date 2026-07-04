@@ -14,11 +14,11 @@ Part of a larger body of work — see [Home →](https://github.com/VediRago/dio
 ### [Principles](./PRINCIPLES.md)
 The first step inside this repository's UX thinking — the source every case study below applies directly.
 
-### 1. [Layering as a Method](./case-studies/the-layering-principle.md)
-One method used repeatedly to organize and deploy information — flexing between strict build-order and simultaneous-optional depth depending on what the problem needs, shown across four different cases.
-
-### 2. [Blueprint Systems](./case-studies/blueprint-systems.md)
+### 1. [Blueprint Systems](./case-studies/blueprint-systems.md)
 Different artifacts need different information to reach the same goal — a blueprint per artifact type, all answering the same question: what must exist before this is complete.
+
+### 2. [Layering as a Method](./case-studies/the-layering-principle.md)
+One method used repeatedly to organize and deploy information — flexing between strict build-order and simultaneous-optional depth depending on what the problem needs, shown across four different cases.
 
 ### 3. [Stretching](./case-studies/stretching.md)
 A model for updating someone's understanding without invalidating what they already believed. The distinction: *"You were wrong"* vs. *"You were right, but the world is larger than that."*
@@ -33,8 +33,8 @@ Planned case study. The structural and methodology decisions behind the Capabili
 
 ## Current Status
 
-- [x] Layering as a Method
 - [x] Blueprint Systems
+- [x] Layering as a Method
 - [x] Stretching
 - [x] Whole Portfolio Structure
 - [ ] CEM
