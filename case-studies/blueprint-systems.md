@@ -6,7 +6,7 @@
 
 Different artifacts need different information.
 
-A README does not need the same structure as a Vault. A scene blueprint does not need the same structure as an act blueprint.
+A README does not need the same structure as a Vault — one orients, the other proves.
 
 Each artifact type gets its own blueprint.
 
@@ -48,8 +48,7 @@ An act blueprint defines global narrative rules.
 
 Scene blueprints reference those rules instead of repeating them.
 
-→ Definition: [Act Blueprint](./act-blueprint.md)
-→ Example: [Act 01 — Lucreta](../vault/layering-as-a-method/act-01-lucreta.md)
+→ See: [Act Blueprint](./act-blueprint.md)
 
 ## Case: Scene Blueprint
 
@@ -57,9 +56,10 @@ A scene blueprint contains only the information needed for one scene.
 
 It depends on the act blueprint above it.
 
-→ Definition: [Scene Blueprint](./scene-blueprint.md)
-→ Example: [Scene Blueprint Template](../vault/layering-as-a-method/scene-blueprint-template.md)
+→ See: [Scene Blueprint](./scene-blueprint.md)
 
 ---
+
+**See also:** For these blueprints working together in a real production, see [Layering as a Method](./the-layering-principle.md).
 
 ↩ [Return to README](../README.md)
