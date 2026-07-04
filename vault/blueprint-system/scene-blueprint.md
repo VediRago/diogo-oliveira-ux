@@ -1,8 +1,16 @@
-# Case Study: The Scene Blueprint System
+↩ [Return to Blueprint Systems](../../case-studies/blueprint-systems.md)
+
+# Scene Blueprint System
+
+## Purpose
+
+Explains how global narrative rules, local scene execution, and final screenplay delivery stay separated inside one production system.
 
 ## The Problem
 
-Writing *Noeme* meant tracking dozens of scenes across multiple characters, timelines, and emotional arcs. Two failure modes kept appearing early.
+Writing Noeme meant tracking dozens of scenes across multiple characters, timelines, and emotional arcs.
+
+Two failure modes kept appearing early.
 
 First, recurring rules could drift. A visual motif, character behavior, or structural rule could mean one thing in an early scene and something slightly different later if nothing owned its definition.
 
@@ -46,15 +54,15 @@ The system can be checked through the artifacts themselves.
 
 ### Global Blueprint
 
-[Act 01 — Lucreta](https://github.com/VediRago/Noeme/blob/main/Blueprints/Act1%20Lucreta/Act1_Lucreta.md)
+[Act 01 — Lucreta](../layering-as-a-method/act-01-lucreta.md)
 
 ### Local Blueprint
 
-[Bedroom Preparation](https://github.com/VediRago/Noeme/blob/main/Blueprints/Act1%20Lucreta/10_Bedroom_Preparation.md)
+[Bedroom Preparation](../layering-as-a-method/bedroom-preparation.md)
 
 ### Screenplay
 
-[Lucreta Prologue](https://github.com/VediRago/Noeme/blob/main/Screenplay/01_Lucreta.md)
+[Lucreta Prologue](../layering-as-a-method/lucreta.md)
 
 The case study explains the relationship between the artifacts. The artifacts provide the proof.
 
