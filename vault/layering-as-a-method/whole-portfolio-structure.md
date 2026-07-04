@@ -56,11 +56,3 @@ The architecture changed because the work demanded it.
 This applies to the portfolio itself:
 
 **The system adapts to the work, not the other way around.**
-
----
-
-## Further Evidence
-
-- Layer System Blueprint
-- Portfolio Layer Inventory
-- Ecosystem Map
