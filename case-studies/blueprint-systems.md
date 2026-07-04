@@ -62,4 +62,4 @@ It depends on the act blueprint above it.
 
 **See also:** For these blueprints working together in a real production, see [Layering as a Method](./the-layering-principle.md).
 
-↩ [Return to README](../README.md)
+[README](../README.md) · Next: [Layering as a Method](./the-layering-principle.md) →
