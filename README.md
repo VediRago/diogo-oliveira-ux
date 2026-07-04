@@ -15,10 +15,10 @@ Part of a larger body of work — see [Home →](https://github.com/VediRago/dio
 The first step inside this repository's UX thinking — the source every case study below applies directly.
 
 ### 1. [Blueprint Systems](./case-studies/blueprint-systems.md)
-Different artifacts need different information to reach the same goal — a blueprint per artifact type, all answering the same question: what must exist before this is complete.
+Different artifacts need different information. Each artifact type gets its own blueprint. The question stays the same: what information must exist before this artifact is complete? Only the answer changes.
 
 ### 2. [Layering as a Method](./case-studies/the-layering-principle.md)
-One method used repeatedly to organize and deploy information — flexing between strict build-order and simultaneous-optional depth depending on what the problem needs, shown across four different cases.
+Individual blueprints become more powerful when combined. Layering organizes multiple blueprint types into one coherent system while preserving the purpose of each.
 
 ### 3. [Stretching](./case-studies/stretching.md)
 A model for updating someone's understanding without invalidating what they already believed. The distinction: *"You were wrong"* vs. *"You were right, but the world is larger than that."*
