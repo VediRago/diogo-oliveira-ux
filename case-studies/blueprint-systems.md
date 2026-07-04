@@ -18,6 +18,14 @@ Only the answer changes.
 
 ---
 
+## Case: Layer 2 Portfolio Blueprint
+
+The UX Portfolio is not a personal profile.
+
+It is the professional methodology layer: methods, case studies, supporting examples, reference links, and evidence.
+
+→ See: [Layer 2 Portfolio Blueprint](./layer-2-portfolio-blueprint.md)
+
 ## Case: README Blueprint
 
 A README introduces the repository.
