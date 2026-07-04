@@ -2,4 +2,4 @@
 
 # Ecosystem Map
 
-![Portfolio Ecosystem Map](Map.png)
+![Portfolio Ecosystem Map](../layering-as-a-method/Map.png)
