@@ -23,8 +23,8 @@ Different artifacts need different information to reach the same goal — a blue
 ### 3. [Stretching](./case-studies/stretching.md)
 A model for updating someone's understanding without invalidating what they already believed. The distinction: *"You were wrong"* vs. *"You were right, but the world is larger than that."*
 
-### 4. Whole Portfolio Structure
-Planned case study. The portfolio's own layer system as an information architecture problem: separating identity, method, product, and singular projects so each part answers one question without collapsing into the others.
+### 4. [Whole Portfolio Structure](./case-studies/whole-portfolio-structure.md)
+The portfolio's own layer system as an information architecture problem: separating identity, method, product, and singular projects so each part answers one question without collapsing into the others.
 
 ### 5. CEM
 Planned case study. The structural and methodology decisions behind the Capability Evidence Model — not the framework's content, but the information architecture that makes the framework navigable.
@@ -36,7 +36,7 @@ Planned case study. The structural and methodology decisions behind the Capabili
 - [x] Layering as a Method
 - [x] Blueprint Systems
 - [x] Stretching
-- [ ] Whole Portfolio Structure
+- [x] Whole Portfolio Structure
 - [ ] CEM
 
 ## Contact
