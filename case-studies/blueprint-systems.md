@@ -34,6 +34,14 @@ It links to evidence instead of reproducing it.
 
 → See: [Case Study Blueprint](../vault/blueprint-system/case-study-blueprint.md)
 
+## Case: Supporting File Blueprint
+
+A supporting file deepens understanding without interrupting the primary document.
+
+It borrows only the material needed to answer its own question, without drifting into another document's job.
+
+→ See: [Supporting File Blueprint](../vault/blueprint-system/supporting-file-blueprint.md)
+
 ## Case: Vault Blueprint
 
 A Vault contains evidence for one case study.
