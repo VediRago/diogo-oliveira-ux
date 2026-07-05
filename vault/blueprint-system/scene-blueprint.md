@@ -1,75 +1,31 @@
 ↩ [Return to Blueprint Systems](../../case-studies/blueprint-systems.md)
 
-# Scene Blueprint System
+# Scene Blueprint
 
 ## Purpose
 
-Explains how global narrative rules, local scene execution, and final screenplay delivery stay separated inside one production system.
+A scene blueprint defines the information required before a screenplay scene can be written.
 
-## The Problem
+It translates act-level rules into one scene's specific execution without redefining those global rules.
 
-Writing Noeme meant tracking dozens of scenes across multiple characters, timelines, and emotional arcs.
+## Content
 
-Two failure modes kept appearing early.
+**Scene Purpose** — what this scene must accomplish emotionally or structurally.
 
-First, recurring rules could drift. A visual motif, character behavior, or structural rule could mean one thing in an early scene and something slightly different later if nothing owned its definition.
+**Action Flow** — the major beats in execution order.
 
-Second, early scenes could become disposable. They risked feeling like setup for later payoff instead of complete experiences that rewarded the reader immediately.
+**Cue Attachments** — visual, emotional, structural, and motif cues used by this scene.
 
-The Scene Blueprint System was built to solve both problems by separating repeated structure from local execution.
+**Scene Function** — why this scene exists inside the act.
 
-## The Solution
+**Dependencies** — references to the act blueprint and any required global rules.
 
-The system uses three connected levels.
+## Rule
 
-The global blueprint owns recurring meaning: act purpose, motifs, world language, character functions, bridge notes, and the scene map.
+A scene blueprint owns only scene-specific information.
 
-The local blueprint owns scene execution: action flow, cue attachments, visual order, pacing, scene function, and what this specific scene must accomplish.
+If information applies to multiple scenes, it belongs in the act blueprint instead.
 
-The screenplay owns final delivery. It does not re-explain the blueprint. It executes the structure in the format the reader experiences.
+The screenplay executes the scene blueprint.
 
-This creates a clear chain:
-
-```text
-Global Blueprint
-↓
-Local Blueprint
-↓
-Screenplay
-```
-
-Each level has one responsibility. No level repeats what another level already owns.
-
-## Design Decisions
-
-File names use gaps of ten, such as `10_`, `20_`, and `30_`, so scenes can be inserted later without renaming the whole sequence.
-
-Silent beats are treated as information, not absence. A silent beat receives a cue instead of being marked as empty, because silence can carry performance, timing, and emotional function.
-
-Global rules are not repeated inside scene files unless the scene uses them in a specific way. This keeps the system traceable and prevents the same idea from being rewritten in multiple places.
-
-## Evidence
-
-The system can be checked through the artifacts themselves.
-
-### Global Blueprint
-
-[Act 01 — Lucreta](../layering-as-a-method/act-01-lucreta.md)
-
-### Local Blueprint
-
-[Bedroom Preparation](../layering-as-a-method/bedroom-preparation.md)
-
-### Screenplay
-
-[Lucreta Prologue](../layering-as-a-method/lucreta.md)
-
-The case study explains the relationship between the artifacts. The artifacts provide the proof.
-
-## Why This Matters
-
-The system shows how consistency can be produced without repeating information.
-
-A recurring rule is defined once, staged locally once, and executed once in the final format. If a reader wants to verify the chain, they follow the links instead of reading duplicated excerpts.
-
-This respects the reader's time and keeps each document responsible for its own information.
+The scene blueprint does not become the screenplay.
