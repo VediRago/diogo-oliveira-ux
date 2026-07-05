@@ -12,6 +12,8 @@ Later information expands the earlier explanation instead of discarding it.
 
 The first explanation stays useful. It was incomplete, not wrong.
 
+The goal is to expand understanding without making earlier understanding feel like a mistake.
+
 ---
 
 ## Case: Narrative (Fragments)
@@ -20,7 +22,7 @@ Lucreta shows symptoms early.
 
 Later, another fragment introduces a virus with overlapping symptoms. The reader can build a biological explanation from real evidence.
 
-That explanation works locally. The virus is real. The symptoms match. Later evidence does not cancel that explanation. It makes it smaller than the full pattern.
+That explanation works locally. The virus is real. The symptoms match. Later evidence doesn't replace that explanation. It places it inside a larger one.
 
 → See: [Stretching Concept](../vault/stretching/stretching-concept.md)
 
