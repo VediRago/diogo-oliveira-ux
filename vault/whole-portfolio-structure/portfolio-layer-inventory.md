@@ -45,6 +45,7 @@ Governed by the Layer 2 Blueprint. Each repository follows the Layer 2 architect
 - `PRINCIPLES.md`
 - Case studies (5, all complete): Blueprint Systems, Layering as a Method, Stretching, Whole Portfolio Structure, CEM
 - Evidence supporting all five case studies, each in its own vault folder
+- Layer 2 Blueprint extracted from the completed UX structure
 
 **Planned**
 
