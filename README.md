@@ -31,14 +31,6 @@ Capability should be evidenced, not summarized. CEM separates evidence discovery
 
 ---
 
-## Current Status
-
-- [x] Blueprint Systems
-- [x] Layering as a Method
-- [x] Stretching
-- [x] Whole Portfolio Structure
-- [x] CEM
-
 ## Contact
 
 GitHub: [VediRago](https://github.com/VediRago)
