@@ -4,20 +4,98 @@
 
 ## Purpose
 
-A case study explains a method and proves it happened. This blueprint defines what has to exist for a case study to be complete — including this one, which follows its own schema.
+Defines the structure and rules governing case studies across the portfolio ecosystem.
 
-## Content
+Case studies teach one transferable method. They explain an idea through principle, application, and evidence rather than through chronology or project history.
 
-**Tagline** — one line naming the parent principle this method serves, if it has one.
+## Core Principle
 
-**Problem or Method** — what needed solving, or what the method actually is, stated once, briefly.
+One case study teaches one method.
 
-**Cases or Applications** — each real-world instance gets its own short section: a paragraph of context, then a link to the actual evidence. Never reproduce what the linked artifact already says.
+If a document teaches more than one method, it should become multiple case studies.
 
-**Why This Matters** — closes the case study by stating the transferable claim, not restating the examples.
+## Structure
 
-## Rule
+Every case study follows the same progression:
 
-Every link inside a case study points to something real. If the artifact doesn't exist yet, the case study isn't finished — a placeholder link is a broken claim, not a draft.
+1. Principle
+2. Explanation
+3. Application
+4. Evidence
+5. Continue
 
-This is where the schema stops. Case Study Blueprint does not require a blueprint of its own; it documents the floor, not another layer above it.
+This structure prioritizes understanding before proof.
+
+## Principle
+
+State one clear claim.
+
+The reader should understand what the case study is about before reading the explanation.
+
+## Explanation
+
+Explain how the method works and why it exists.
+
+Explain the reasoning behind the method, not merely what it is.
+
+Avoid chronology or process diaries.
+
+## Application
+
+Show the method applied to a real artifact.
+
+The goal is to demonstrate transferability rather than describe a project.
+
+Application doesn't have to be prose. It can take the form of a dependency chain, a layered system, progressive refinement, a decision tree, or a cause-and-effect structure—whatever best demonstrates the method in practice.
+
+State why the reader should care about that shape before presenting it, so a chain of headings reads as evidence of the method rather than as a list.
+
+Sequential causality is encouraged when the method depends on it.
+
+Avoid chronological storytelling ("first I did X, then I realized Y, then I changed Z"), but preserve dependency chains where solving one problem genuinely exposes the next.
+
+The test:
+
+- If the steps could have happened in a different order without changing the outcome, it's chronology and should usually be compressed or removed.
+- If each step is a real dependency of the one before it, the chain itself is the method, and removing it would remove the proof.
+
+## Evidence
+
+Support claims through real artifacts.
+
+Evidence should be linked rather than reproduced.
+
+Supporting material belongs in Supporting Files and the Vault.
+
+## Navigation
+
+Every case study belongs to one Layer.
+
+Every case study links to its supporting files where appropriate.
+
+Every case study provides navigation back to the repository and onward to the next case study.
+
+Readers should never reach a dead end.
+
+## Relationship
+
+```text
+Layer
+  ↓
+Case Study
+  ├── Supporting Files
+  └── Vault
+```
+
+The case study teaches. Supporting files deepen understanding. The Vault provides evidence and reference artifacts.
+
+## Completion Checklist
+
+A case study is complete when it:
+
+- teaches one transferable method
+- follows the Principle → Explanation → Application → Evidence progression
+- demonstrates the method through a real example
+- links to supporting files rather than duplicating them
+- links to evidence rather than reproducing it
+- provides complete navigation to previous, next, and repository entry points
