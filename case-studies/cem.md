@@ -52,8 +52,6 @@ The numbering isn't decoration.
 
 It keeps discovery and evaluation from collapsing into the same document, the same way the method keeps them from collapsing into the same process.
 
-**Pending:** once CEM is finished, the referenced CEM sections should be linked directly from this application section.
-
 ## Evidence
 
 → Repository: [CEM](https://github.com/VediRago/CEM)
