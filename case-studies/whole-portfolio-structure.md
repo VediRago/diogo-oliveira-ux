@@ -43,6 +43,7 @@ The result isn't a separate case study. The portfolio itself is the case study. 
 ## Evidence
 
 - **[Layer System Blueprint](../vault/whole-portfolio-structure/layer-system-blueprint.md)** — the rules governing why each layer exists and what separates them.
+- **[Layer 2 Blueprint](../vault/whole-portfolio-structure/layer-2-blueprint.md)** — the extracted structure governing Method repositories.
 - **[Portfolio Layer Inventory](../vault/whole-portfolio-structure/portfolio-layer-inventory.md)** — the current state of every repository against those rules.
 - **[Ecosystem Map](../vault/whole-portfolio-structure/ecosystem-map.md)** — the portfolio's structure, shown rather than described.
 
