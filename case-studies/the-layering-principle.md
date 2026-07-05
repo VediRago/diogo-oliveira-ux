@@ -30,6 +30,7 @@ The act defines global rules. The scene blueprint references those rules. The sc
 
 Each layer depends on the one before it.
 
+→ System: [Scene Blueprint System](../vault/layering-as-a-method/scene-blueprint-system.md)
 → Template: [Scene Blueprint Template](../vault/layering-as-a-method/scene-blueprint-template.md)
 → Global: [Act 01 — Lucreta](../vault/layering-as-a-method/act-01-lucreta.md)
 → Local: [Bedroom Preparation](../vault/layering-as-a-method/bedroom-preparation.md)
